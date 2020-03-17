@@ -1,46 +1,45 @@
 ---
-description: >-
-  A verified crowd-sourced guide to staying safe in Coronavirus disease
-  (COVID-19) outbreak.
+विवरण:> -
+  कोरोनोवायरस बीमारी में सुरक्षित रहने के लिए एक सत्यापित भीड़-खट्टा गाइड
+  (COVID-19) का प्रकोप।
 ---
 
-# Corona Safe
+# कोरोना सुरक्षित
 
-![](.gitbook/assets/coronasafe-logo.svg)
+! [] (। Gitbook / assets / coronasafe-logo.svg)
 
-Coronaviruses refer to the family of viruses that are known to cause respiratory infections in both animals and humans. There are seven coronaviruses that are currently known to affect humans, out of which four are commonly found across the globe and cause mild cold like symptoms only. The remaining three are known to cause severe diseases such as [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+कोरोनाविरस वायरस के परिवार को संदर्भित करता है जो जानवरों और मनुष्यों दोनों में श्वसन संक्रमण का कारण बनता है। वर्तमान में मनुष्यों को प्रभावित करने के लिए ज्ञात सात कोरोनविर्यूज़ हैं, जिनमें से चार सामान्यतः दुनिया भर में पाए जाते हैं और केवल लक्षणों के कारण हल्के ठंड का कारण बनते हैं। शेष तीनों को गंभीर बीमारियों के कारण जाना जाता है जैसे कि [मध्य पूर्व श्वसन सिंड्रोम, या MERS-CoV के कारण MERS] (https://www.who.int/emergencies/mers-cov/en/), [गंभीर श्वसन श्वसन] SARS-CoV] (https://www.who.int/csr/sars/en/) के कारण होने वाला सिंड्रोम और अंत में SARS-CoV-2 के कारण होने वाला [कोरोनावायरस रोग 2019] (https://www.cdc.gov/) कोरोना / 2019-ncov / index.html)।
 
-[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
+[COVID-19] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019) एक उपन्यास कोरोनावायरस है जिसे पहले कभी मनुष्यों में पहचाना नहीं गया है। यह प्रकृति में जूनोटिक है, जिसका अर्थ है कि यह पशु से मानव तक, और मानव से मानव अंतःक्रियाओं में प्रेषित हो सकता है। यह 31 दिसंबर 2019 को चीन में वुहान सिटी से पहली [रिपोर्ट] (https://www.who.int/csr/don/05-januge-2020-pneumonia-of-unkown-cause-china/en/) हुई थी। COVID-19 के सबसे आम लक्षण बुखार, थकान और सूखी खांसी हैं। कुछ रोगियों में दर्द और दर्द, नाक की भीड़, नाक बह रही है, गले में खराश या दस्त हो सकता है।
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
+लगभग 80% संक्रमित केवल हल्के लक्षण दिखाते हैं और मानक चिकित्सा ध्यान देते हैं। वृद्ध लोगों और एक अंतर्निहित या पिछली चिकित्सा स्थिति के साथ गंभीर लक्षण विकसित होते हैं और चिकित्सा हस्तक्षेप के बिना घातक साबित हो सकते हैं। अध्ययनों के अनुसार संक्रमित का लगभग 14% गंभीर रूप से बीमार हो जाता है और 5% गंभीर होता है।
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+यह वायरस विश्व स्तर पर 100,000 से अधिक प्रभावित हुआ है और 3000 से अधिक मौतों का कारण बना है। डब्ल्यूएचओ ने ग्लोबल लेवल पर वेरी हाई रिस्क का दर्जा दिया है।
 
-{% hint style="danger" %}
-This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
-{% endhint %}
+{% संकेत शैली = "खतरा"%}
+यह मार्गदर्शिका अभी भी एक कार्य प्रगति पर है। जब तक कुछ खंड पूरे नहीं हो जाते, हम संदर्भ के लिए आधिकारिक लिंक प्रदान करेंगे। जब तक गाइड अपडेट न हो जाए, आपको उन निर्देशों का पालन करना होगा।
+{% एंडहिंट%}
 
-## Why does this guide exist ?
+## यह गाइड क्यों मौजूद है?
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+> ** यह गाइड निवारक उपायों, वायरस के तनाव और आधिकारिक संसाधनों के बारे में जानकारी एकत्र करने के लिए एक केंद्र के रूप में है। ये निर्देश विभिन्न प्रकार के आधिकारिक स्रोतों से संकलित किए गए हैं। **
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+COVID-19 एक उपन्यास कोरोना वायरस है, जिसका अर्थ है कि इसके बारे में अधिक जानकारी और जन जागरूकता नहीं है। अधिकांश जानकारी बहुत सी स्वतंत्र सरकारी और गैर-सरकारी वेबसाइटों में फैली हुई है। COVID-19 के बारे में सोशल मीडिया पर बहुत सी फर्जी खबरें और गलत सूचनाएं फैल रही हैं, जिनमें से कई में जान का खतरा है।
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
+यह मार्गदर्शिका सभी सूचनाओं को एक ही केंद्र में एकत्रित करती है और एक उपयोगकर्ता के अनुकूल प्रारूप में वितरित करती है। यह गाइड व्यापक दर्शकों के लिए कई क्षेत्रीय और राष्ट्रीय भाषाओं में स्थानीयकृत है। हम हमेशा योगदानकर्ताओं की तलाश में रहते हैं, आप [यहाँ मदद कर सकते हैं] (https://www.coronasafe.in/contribute)।
 
-## **Contents**
+## ** सामग्री **
 
-{% page-ref page="precautions.md" %}
+{% पृष्ठ-रेफरी पृष्ठ = "सावधानियां। सुबह"%}
 
-{% page-ref page="symptoms.md" %}
+{% पेज-रेफ पेज = "symptoms.md"%}
 
-{% page-ref page="myths-and-fake-news.md" %}
+{% पृष्ठ-रेफरी पृष्ठ = "मिथकों- and-fake-news.md"%}
 
-{% page-ref page="know-covid-19-1/covid-19-virus-strain.md" %}
+{% पृष्ठ-रेफरी पृष्ठ = "पता-कोविद-१ ९-१ / कोविद-९-वायरस -स्ट्रीम। डीएम" २}
 
-{% page-ref page="faq.md" %}
+{% पृष्ठ-रेफरी पृष्ठ = "faq.md"%}
 
-{% page-ref page="resources/official-resources.md" %}
+{% पृष्ठ-रेफरी पृष्ठ = "संसाधन / आधिकारिक- स्रोत। dd"%}
 
-{% page-ref page="resources/sources.md" %}
-
+{% पृष्ठ-रेफरी पृष्ठ = "संसाधन / स्रोत.मदद"% "
