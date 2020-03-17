@@ -1,22 +1,21 @@
 ---
-description: >-
-  This guide is based on various reliable sources either from Governmental
-  Organizations, Government-authorized sources or Educational Institutions.
+विवरण:> -
+   यह मार्गदर्शिका सरकारी से विभिन्न विश्वसनीय स्रोतों पर आधारित है
+   संगठन, सरकार द्वारा अधिकृत स्रोत या शैक्षिक संस्थान।
 ---
 
-# Sources
+# सूत्र
 
-## Governmental Organizations
+## सरकारी संगठन
 
-* World Health Organization, [https://www.who.int/health-topics/coronavirus](https://www.who.int/health-topics/coronavirus)
-* Centers for Disease Control and Prevention CDC, [https://www.cdc.gov/coronavirus/2019-nCoV/summary.html](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html)
-* ECDC, Europa EU, [https://www.ecdc.europa.eu/en/novel-coronavirus-china](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
+* विश्व स्वास्थ्य संगठन, [https://www.who.int/health-topics/coronavirusourcing(https://www.who.int/health-topics/coronavirus]
+* रोग नियंत्रण और रोकथाम सीडीसी केंद्र, [https://www.cdc.gov/coronavirus/2019-nCoV/summary.htmlearch(https://www.cdc.gov/coronavirus/2019-nCoV-summary.html )
+* ECDC, यूरोपा EU, [https://www.ecdc.europa.eu/en/novel-coronavirus-chinaacing(https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions- जवाब)
 
-## Non Governmental Organizations
+## गैरसरकारी संगठन
 
-* Our World in Data, [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)
+* डेटा में हमारी दुनिया, [https://ourworldindata.org/coronavirusourcing(https://ourworldindata.org/coronavirus)
 
-## Educational Institutions
+## शिक्षण संस्थान
 
-* John Hopkins University, [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)
-
+* जॉन हॉपकिंस विश्वविद्यालय, [https://coronavirus.jhu.edu/thing(https://coronavirus.jhu.edu/)
