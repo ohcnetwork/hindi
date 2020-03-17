@@ -17,7 +17,7 @@ Work in Progress, in the meantime refer : [https://www.who.int/emergencies/disea
 **No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.
 
 {% hint style="warning" %}
-There _\*\*_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
+There \_\*\*\_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
 {% endhint %}
 
 Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
