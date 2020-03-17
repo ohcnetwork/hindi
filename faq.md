@@ -1,74 +1,61 @@
 ---
-description: Frequently Asked Questions about COVID-19
+विवरण: COVID-19 के बारे में अक्सर पूछे जाने वाले प्रश्न
 ---
 
-# FAQ
+# सामान्य प्रश्न
 
-## What is a Corona Virus?
+## कोरोना वायरस क्या है?
 
-Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome \(MERS\) and Severe Acute Respiratory Syndrome \(SARS\). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+कोरोनाविरस वायरस का एक बड़ा परिवार है जो जानवरों या मनुष्यों में बीमारी का कारण हो सकता है। मनुष्यों में, कई कोरोनविर्यूज़ को सामान्य सर्दी से लेकर गंभीर बीमारियों जैसे मध्य पूर्व श्वसन तंत्र सिंड्रोम (MERS \) और गंभीर तीव्र श्वसन सिंड्रोम \ (SARS \) तक श्वसन संक्रमण का कारण माना जाता है। सबसे हाल ही में खोजे गए कोरोनावायरस का कारण कोरोनोवायरस रोग COVID-19 है।
 
-## What is COVID-19?
+## COVID-19 क्या है?
 
-COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 सबसे हाल ही में खोजे गए कोरोनावायरस के कारण होने वाला संक्रामक रोग है। यह नया वायरस और बीमारी दिसंबर 2019 में चीन के वुहान में फैलने से पहले अज्ञात थी।
 
-## What are the symptoms of COVID-19 ?
+## COVID-19 के लक्षण क्या हैं?
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people \(about 80%\) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention.
+COVID-19 के सबसे आम लक्षण बुखार, थकान और सूखी खांसी हैं। कुछ रोगियों में दर्द और दर्द, नाक की भीड़, नाक बह रही है, गले में खराश या दस्त हो सकता है। ये लक्षण आमतौर पर हल्के होते हैं और धीरे-धीरे शुरू होते हैं। कुछ लोग संक्रमित हो जाते हैं लेकिन कोई लक्षण विकसित नहीं करते हैं और अस्वस्थ महसूस नहीं करते हैं। अधिकांश लोगों को (लगभग 80%) विशेष उपचार की आवश्यकता के बिना बीमारी से उबरना पड़ता है। COVID-19 पाने वाले प्रत्येक 6 में से लगभग 1 व्यक्ति गंभीर रूप से बीमार हो जाता है और सांस लेने में कठिनाई पैदा करता है। वृद्ध लोगों, और उच्च रक्तचाप, हृदय की समस्याओं या मधुमेह जैसी अंतर्निहित चिकित्सा समस्याओं वाले लोगों में गंभीर बीमारी विकसित होने की अधिक संभावना है। बुखार, खांसी और सांस लेने में कठिनाई वाले लोगों को चिकित्सा ध्यान देना चाहिए।
 
-## How does COVID-19 spread ?
+## COVID-19 कैसे फैलता है?
 
-People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter \(3 feet\) away from a person who is sick.
+लोग वायरस वाले अन्य लोगों से COVID -19 पकड़ सकते हैं। यह बीमारी नाक या मुंह से छोटी बूंदों के माध्यम से एक व्यक्ति से दूसरे व्यक्ति में फैल सकती है जब सीओवीआईडी ​​-19 खांसी या साँस छोड़ता है। ये बूंदें व्यक्ति के आसपास की वस्तुओं और सतहों पर उतरती हैं। अन्य लोग तब इन वस्तुओं या सतहों को छूकर, फिर अपनी आँखों, नाक या मुंह को छूकर COVID -19 को पकड़ लेते हैं। लोग COVID-19 को भी पकड़ सकते हैं यदि वे COVID-19 वाले व्यक्ति से बूंदों में सांस लेते हैं जो खांसी करते हैं या बूंदों को बाहर निकालते हैं। यही कारण है कि बीमार रहने वाले व्यक्ति से 1 मीटर (3 फीट) से अधिक रहना महत्वपूर्ण है।
 
-> WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings.
+> WHO COVID-19 के प्रसार के तरीकों पर चल रहे शोध का आकलन कर रहा है और अद्यतन निष्कर्षों को साझा करना जारी रखेगा।
 
-## What can i do to protect myself and prevent the spread of disease ?
+## मैं खुद को बचाने और बीमारी के प्रसार को रोकने के लिए क्या कर सकता हूं?
 
-> You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:
+> आप कुछ सरल सावधानियां बरतकर COVID -19 के संक्रमित होने या फैलने की संभावनाओं को कम कर सकते हैं:
 
-* Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
-* Maintain at least 1 metre \(3 feet\) distance between yourself and anyone who is coughing or sneezing.
-* Avoid touching eyes, nose and mouth.
-* Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.
-* Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.
-* Keep up to date on the latest COVID-19 hotspots \(cities or local areas where COVID-19 is spreading widely\). If possible, avoid traveling to places  – especially if you are an older person or have diabetes, heart or lung disease.
+* नियमित रूप से और अपने हाथों को अल्कोहल-आधारित हाथ से रगड़कर साफ करें या साबुन और पानी से धोएं।
+* खांसी या छींकने वाले अपने और किसी के बीच कम से कम 1 मीटर \ (3 फीट \) दूरी बनाए रखें।
+* आंखों, नाक और मुंह को छूने से बचें।
+* सुनिश्चित करें कि आप और आपके आस-पास के लोग अच्छे श्वसन स्वच्छता का पालन करें। इसका मतलब है खांसी या छींक आने पर अपनी मुड़ी हुई कोहनी या ऊतक से अपने मुंह और नाक को ढंकना। फिर इस्तेमाल किए गए ऊतक का तुरंत निपटान करें।
+* अस्वस्थता महसूस होने पर घर पर रहें। यदि आपको बुखार, खांसी और सांस लेने में कठिनाई है, तो चिकित्सा पर ध्यान दें और पहले से फोन करें। अपने स्थानीय स्वास्थ्य प्राधिकरण के निर्देशों का पालन करें।
+* नवीनतम COVID-19 हॉटस्पॉट \ (शहर या स्थानीय क्षेत्र जहां COVID-19 व्यापक रूप से फैल रहा है) पर अद्यतित रहें। यदि संभव हो, तो स्थानों की यात्रा करने से बचें - खासकर यदि आप एक बड़े व्यक्ति हैं या आपको मधुमेह, हृदय या फेफड़ों की बीमारी है।
 
-## How likely am I to catch COVID-19 ?
+## मुझे COVID-19 को पकड़ने की कितनी संभावना है?
 
-The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there.
+जोखिम इस बात पर निर्भर करता है कि आप कहां हैं - और अधिक विशेष रूप से, चाहे वहां कोई COVID-19 का प्रकोप हो।
 
-For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world \(cities or areas\) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19.
+अधिकांश स्थानों के अधिकांश लोगों के लिए COVID-19 को पकड़ने का जोखिम अभी भी कम है। हालाँकि, अब दुनिया भर में ऐसे स्थान (शहर या क्षेत्र) हैं जहाँ बीमारी फैल रही है। इन क्षेत्रों में रहने या जाने वाले लोगों के लिए, इन क्षेत्रों में COVID-19 को पकड़ने का जोखिम अधिक होता है। COVID-19 के एक नए मामले की पहचान होने पर सरकार और स्वास्थ्य अधिकारी हर बार जोरदार कार्रवाई कर रहे हैं। यात्रा, आंदोलन या बड़े समारोहों पर किसी भी स्थानीय प्रतिबंध का पालन करना सुनिश्चित करें। रोग नियंत्रण प्रयासों के साथ सहयोग करने से आपके COVID-19 को पकड़ने या फैलने का जोखिम कम हो जाएगा।
 
-COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide.
+COVID-19 के प्रकोपों ​​को समाहित किया जा सकता है और ट्रांसमिशन को रोका जा सकता है, जैसा कि चीन और कुछ अन्य देशों में दिखाया गया है। दुर्भाग्य से, नए प्रकोप तेजी से उभर सकते हैं। उस स्थिति से अवगत होना महत्वपूर्ण है जहाँ आप जा रहे हैं या जाना चाहते हैं। WHO दुनिया भर में COVID-19 स्थिति पर दैनिक अपडेट प्रकाशित करता है।
 
-## Who is at risk of developing severe illness ?
+## गंभीर बीमारी विकसित होने का खतरा किसे है?
 
-While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions \(such as high blood pressure, heart disease, lung disease, cancer or diabetes\) appear to develop serious illness more often than others.
+जबकि हम अभी भी सीख रहे हैं कि COVID-2019 लोगों, पुराने व्यक्तियों और पहले से मौजूद चिकित्सा स्थितियों वाले लोगों को कैसे प्रभावित करता है (जैसे कि उच्च रक्तचाप, हृदय रोग, फेफड़े की बीमारी, कैंसर या मधुमेह) गंभीर बीमारी को विकसित करने की तुलना में अधिक बार दिखाई देते हैं अन्य।
 
-## Are there any medicines or therapies that can prevent or cure COVID-19 ?
+## क्या ऐसा कुछ है जो मुझे नहीं करना चाहिए?
 
-While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.
+निम्नलिखित उपाय ** COVID-19 के विरुद्ध प्रभावी नहीं हैं और हानिकारक हो सकते हैं:
 
-## Should I wear a mask to protect myself ?
+* धूम्रपान
+* कई मास्क पहने
+* एंटीबायोटिक्स लेना
 
-Only wear a mask if you are ill with COVID-19 symptoms \(especially coughing\) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely.
+किसी भी मामले में, यदि आपको बुखार है, खांसी और सांस लेने में कठिनाई है, तो अधिक गंभीर संक्रमण विकसित करने के जोखिम को कम करने के लिए चिकित्सा देखभाल की तलाश करें और अपने स्वास्थ्य देखभाल प्रदाता के साथ अपने हाल के यात्रा इतिहास को साझा करना सुनिश्चित करें।
 
-WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks \(see Advice on the use of masks\).
+## इसके बारे में और अधिक पढ़ें:
 
-The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter \(3 feet\) from people who are coughing or sneezing. See basic protective measures against the new coronavirus for more information.
-
-## Is there anything I should not do ?
-
-The following measures **ARE NOT effective** against COVID-19 and can be harmful:
-
-* Smoking
-* Wearing multiple masks
-* Taking antibiotics
-
-In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.
-
-## Read more about it at:
-
-* [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
-* [https://www.cdc.gov/coronavirus/2019-ncov/faq.html](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
-
+* [https://www.who.int/news-room/q-a-detail/q-a-coronavirusesdes(https://www.who.int/news-room/q-a-detail-q-a-coronaviruses]
+* [https://www.cdc.gov/coronavirus/2019-ncov/faq.htmlearch(https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
