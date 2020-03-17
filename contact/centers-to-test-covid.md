@@ -1,178 +1,177 @@
 ---
-description: Details of Centers to test for COVID-19 Infection
+विवरण: COVID-19 संक्रमण के परीक्षण के लिए केंद्रों का विवरण
 ---
 
-# Centers to Test for COVID-19
+# COVID-19 के लिए परीक्षण केंद्र
 
-_**A swab test:**_ A sample from your throat or nose will be collected with the help of a cotton swab.
+_ ** एक स्वैब परीक्षण: ** _ आपके गले या नाक से एक नमूना कपास झाड़ू की मदद से एकत्र किया जाएगा।
 
-_**A nasal aspirate:**_ In this method, the lab technician will inject a saline solution into your nose, and then remove the sample with a gentle suction.
+_ ** एक नाक की आकांक्षा: ** _ इस विधि में, लैब टेक्नीशियन आपकी नाक में एक खारा समाधान इंजेक्ट करेगा, और फिर एक सौम्य सक्शन के साथ नमूना निकाल दें।
 
-_**A tracheal aspirate:**_ A thin, lighted tube called a bronchoscope is inserted into your lungs, from where a sample is collected for testing.
+_ ** एक श्वासनली महाप्राण: ** _ एक पतली, हल्की ट्यूब जिसे ब्रोंकोस्कोप कहा जाता है, आपके फेफड़ों में डाली जाती है, जहाँ से परीक्षण के लिए एक नमूना एकत्र किया जाता है।
 
-_**A sputum test:**_ Sputum can be collected either from the nose with a swab or by asking the patient to cough up the mucus.
+_ ** एक थूक परीक्षण: ** _ थूक को या तो नाक से एक स्वास के साथ एकत्र किया जा सकता है या रोगी को बलगम उबालने के लिए कह सकता है।
 
-_**A blood test:**_ Blood sample is drawn and tested in a lab for the virus. This is either done through a blanket test for all variants of the coronavirus \(including regular flu\) or through a specialised gene-sequencing test that locates the marker for the novel coronavirus.
+_ ** एक रक्त परीक्षण: ** _ रक्त का नमूना वायरस के लिए एक प्रयोगशाला में तैयार और परीक्षण किया जाता है। यह या तो कोरोनोवायरस (नियमित फ्लू \ सहित) के सभी वेरिएंट के लिए एक कंबल परीक्षण के माध्यम से किया जाता है या एक विशेष जीन-अनुक्रमण परीक्षण के माध्यम से होता है जो उपन्यास कोरोनवायरस के लिए मार्कर का पता लगाता है।
 
-## Centers to get tested:
+## परीक्षण करने के लिए केंद्र:
 
-### Andhra Pradesh:
+### आंध्र प्रदेश:
 
-Sri Venkateswara Institute of Medical Sciences, Tirupati Contact number – +91-8772287777
+श्री वेंकटेश्वर इंस्टीट्यूट ऑफ मेडिकल साइंसेज, तिरुपति संपर्क नंबर - + 91-8772287777
 
-Andhra Medical College, Visakhapatnam, Andhra Pradesh Contact number – +91- 89127 12258
+आंध्र मेडिकल कॉलेज, विशाखापत्तनम, आंध्र प्रदेश संपर्क नंबर - + 91- 89127 12258
 
-Government Medical College, Anantapur, AP Contact number – +91 85542 49115
+शासकीय मेडिकल कॉलेज, अनंतपुर, एपी संपर्क नंबर - +91 85542 49115
 
-### Andaman & Nicobar Islands:
+### अंडमान और निकोबार द्वीप समूह:
 
-Regional Medical Research Centre, Port Blair, Andaman and Nicobar Contact number – 03192 251158/59
+क्षेत्रीय चिकित्सा अनुसंधान केंद्र, पोर्ट ब्लेयर, अंडमान और निकोबार संपर्क नंबर - 03192 251158/59
 
-### Assam
+### असम
 
-Gauhati Medical College, Guwahati Contact number – 03612132751
+गौहाटी मेडिकल कॉलेज, गुवाहाटी संपर्क नंबर - 03612132751
 
-Regional Medical Research Center, Dibrugarh Contact number – 03732381494
+क्षेत्रीय चिकित्सा अनुसंधान केंद्र, डिब्रूगढ़ संपर्क नंबर - 03732381494
 
-### Bihar
+### बिहार
 
-Rajendra Memorial Research Institute of Medical Sciences, Patna Contact number – 06122636651
+राजेंद्र मेमोरियल रिसर्च इंस्टीट्यूट ऑफ मेडिकल साइंसेज, पटना संपर्क नंबर - 06122636651
 
-### Chandigarh
+### चंडीगढ़
 
-Post Graduate Institute of Medical Education & Research, Chandigarh Contact number – 01722747585
+पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ मेडिकल एजुकेशन एंड रिसर्च, चंडीगढ़ संपर्क नंबर - 01722747585
 
-### Chhattisgarh
+### छत्तीसगढ़
 
-All India Institute Medical Sciences, Raipur Contact number – 07712572240
+अखिल भारतीय आयुर्विज्ञान संस्थान, रायपुर संपर्क नंबर - 07712572240
 
-### Delhi-NCR
+### दिल्ली-एनसीआर
 
-All India Institute Medical Sciences, Delhi Contact number – 01126588500
+अखिल भारतीय आयुर्विज्ञान संस्थान, दिल्ली संपर्क नंबर - 01126588500
 
-National Centre for Disease Control, Delhi Contact number – 01123913148
+राष्ट्रीय रोग नियंत्रण केंद्र, दिल्ली संपर्क नंबर - 01123913148
 
-### Gujarat
+### गुजरात
 
-BJ Medical College, Ahmedabad Contact number – 07922680074
+बीजे मेडिकल कॉलेज, अहमदाबाद संपर्क नंबर - 07922680074
 
-M.P.Shah Government Medical College, Jamnagar Contact number – 02882553515
+एम.पी.शाह गवर्नमेंट मेडिकल कॉलेज, जामनगर संपर्क नंबर - 02882553515
 
-### Haryana
+### हरियाणा
 
-Pt. B.D. Sharma Post Graduate Inst. of Med. Sciences, Rohtak, Haryana Contact number – 01262211307
+पं। बी डी शर्मा स्नातकोत्तर उपाधि। मेड की। विज्ञान, रोहतक, हरियाणा संपर्क नंबर - 01262211307
 
-BPS Govt Medical College, Sonipat Contact number – 01263 283 025
+बीपीएस सरकार मेडिकल कॉलेज, सोनीपत संपर्क नंबर - 01263 283 025
 
-### Himachal Pradesh
+### हिमाचल प्रदेश
 
-Indira Gandhi Medical College, Shimla, Himachal Pradesh Contact number – 01772654713
+इंदिरा गांधी मेडिकल कॉलेज, शिमला, हिमाचल प्रदेश संपर्क नंबर - 01772654713
 
-Dr.Rajendra Prasad Govt. Med. College, Kangra, Tanda, HP Contact number – 01892287187
+डॉ.राजेन्द्र प्रसाद सरकार मेड। कॉलेज, कांगड़ा, टांडा, HP संपर्क नंबर - 01892287187
 
-### Jammu and Kashmir
+### जम्मू और कश्मीर
 
-Sher‐e‐ Kashmir Institute of Medical Sciences, Srinagar Contact number – 01942401013
+शेर agar ‐ कश्मीर इंस्टीट्यूट ऑफ मेडिकल साइंसेज, श्रीनगर संपर्क नंबर - 01942401013
 
-Government Medical College, Jammu Contact number – 01912584247
+सरकारी मेडिकल कॉलेज, जम्मू संपर्क नंबर - 01912584247
 
-MGM Medical College, Jamshedpur Contact number – 06572360859
+एमजीएम मेडिकल कॉलेज, जमशेदपुर संपर्क नंबर - 06572360859
 
-### Karnataka
+### कर्नाटक
 
-Bangalore Medical College & Research Institute, Bangalore Contact number – 08026700810
+बैंगलोर मेडिकल कॉलेज एंड रिसर्च इंस्टीट्यूट, बैंगलोर संपर्क नंबर - 08026700810
 
-National Institute of Virology Field Unit Bangalore Contact number – 08026654084
+नेशनल इंस्टीट्यूट ऑफ वायरोलॉजी फील्ड यूनिट बैंगलोर संपर्क नंबर - 08026654084
 
-Mysore Medical College & Research Institute, Mysore Contact number – 08212520512
+मैसूर मेडिकल कॉलेज एंड रिसर्च इंस्टीट्यूट, मैसूर संपर्क नंबर - 08212520512
 
-Hassan Inst. of Med. Sciences, Hassan, Karnataka Contact number – 08172231699
+हसन इंस्टा। मेड की। विज्ञान, हसन, कर्नाटक संपर्क नंबर - 08172231699
 
-Shimoga Inst. of Med. Sciences, Shivamogga, Karnataka Contact number – 08182229933
+शिमोगा इंस्टा। मेड की। विज्ञान, शिवमोग्गा, कर्नाटक संपर्क नंबर - 08182229933
 
-### Kerala
+### केरल
 
-National Institute of Virology Field Unit, Kerala Contact number – 04772970004
+नेशनल इंस्टीट्यूट ऑफ वायरोलॉजी फील्ड यूनिट, केरल संपर्क नंबर - 04772970004
 
-Govt. Medical College, Thriuvananthapuram, Kerala Contact number – 04712528300
+सरकार। मेडिकल कॉलेज, तिरुवनंतपुरम, केरल संपर्क नंबर - 04712528300
 
-Govt. Medical College, Kozhikhode, Kerala Contact number – 04952350216
+सरकार। मेडिकल कॉलेज, कोझीकोड, केरल संपर्क नंबर - 04952350216
 
-### Madhya Pradesh
+### मध्य प्रदेश
 
-All India Institute Medical Sciences, Bhopal Contact number – 07552672322
+अखिल भारतीय आयुर्विज्ञान संस्थान, भोपाल संपर्क नंबर - 07552672322
 
-National Institute of Research in Tribal Health \(NIRTH\), Jabalpur Contact number – 07612370800
+नेशनल इंस्टीट्यूट ऑफ रिसर्च इन ट्राइबल हेल्थ \ (NIRTH \), जबलपुर संपर्क नंबर - 07612370800
 
-### Meghalaya
+### मेघालय
 
-NEIGRIHMS of Health and Medical Sciences, Shillong, Meghalaya Contact number – 03642538013
+NEIGRIHMS ऑफ हेल्थ एंड मेडिकल साइंसेज, शिलांग, मेघालय संपर्क नंबर - 03642538013
 
-### Maharashtra
+### महाराष्ट्र
 
-Indira Gandhi Government Medical College, Nagpur Contact number – 07122725423
+इंदिरा गांधी सरकारी मेडिकल कॉलेज, नागपुर संपर्क नंबर - 07122725423
 
-Kasturba Hospital for Infectious Diseases, Mumbai Contact number – 022300432333
+संक्रामक रोगों के लिए कस्तूरबा अस्पताल, मुंबई संपर्क नंबर - 022300432333
 
-### Manipur
+### मणिपुर
 
-J N Inst. of Med. Sciences Hospital, Imphal‐East, Manipur Contact number – 03852443144
+जे एन इंस्टा। मेड की। विज्ञान अस्पताल, इंफाल ‐ पूर्व, मणिपुर संपर्क नंबर - 03852443144
 
-### Odisha
+### ओडिशा
 
-Regional Medical Research Center, Bhubaneswar Contact number – 06742301322
+क्षेत्रीय चिकित्सा अनुसंधान केंद्र, भुवनेश्वर संपर्क नंबर - 06742301322
 
-### Puducherry
+### पुदुचेरी
 
-Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry Contact number – 04132271301
+जवाहरलाल इंस्टीट्यूट ऑफ पोस्टग्रेजुएट मेडिकल एजुकेशन एंड रिसर्च, पुदुचेरी संपर्क नंबर - 04132271301
 
-### Punjab
+### पंजाब
 
-Government Medical College, Patiala, Punjab Contact number – 01752212018
+सरकारी मेडिकल कॉलेज, पटियाला, पंजाब संपर्क नंबर - 01752212018
 
-Government Medical College, Amritsar Contact number – 01832426918
+सरकारी मेडिकल कॉलेज, अमृतसर संपर्क नंबर - 01832426918
 
-### Rajasthan
+### राजस्थान Rajasthan
 
-Sawai Man Singh, Jaipur Contact number – 01412744283
+सवाई मान सिंह, जयपुर संपर्क नंबर - 01412744283
 
-Dr. S.N Medical College, Jodhpur Contact number – 02912434374
+डॉ। एसएन मेडिकल कॉलेज, जोधपुर संपर्क नंबर - 02912434374
 
-Jhalawar Medical College, Jhalawar, Rajasthan Contact number- 07432233388
+झालावाड़ मेडिकल कॉलेज, झालावाड़, राजस्थान संपर्क नंबर- 07432233388
 
-SP Med. College, Bikaner, Rajasthan Contact number – 01512220115
+एसपी मेड। कॉलेज, बीकानेर, राजस्थान संपर्क नंबर - 01512220115
 
-### Tamil Nadu
+### तमिलनाडु
 
-King’s Institute of Preventive Medicine & Research, Chennai Contact number – 04422501520
+किंग्स इंस्टीट्यूट ऑफ प्रिवेंटिव मेडिसिन एंड रिसर्च, चेन्नई संपर्क नंबर - 04422501520
 
-Government Medical College, Theni Contact number – 04546244502
+सरकारी मेडिकल कॉलेज, थेनी संपर्क नंबर - 04546244502
 
-### Tripura
+### त्रिपुरा
 
-Government Medical College, Agartala Contact number – 03812357130
+सरकारी मेडिकल कॉलेज, अगरतला संपर्क नंबर - 03812357130
 
-### Telangana
+### तेलंगाना
 
-Gandhi Medical College, Secunderabad Contact number – 04027505566
+गांधी मेडिकल कॉलेज, सिकंदराबाद संपर्क नंबर - 04027505566
 
-### Uttar Pradesh
+### उत्तर प्रदेश
 
-King’s George Medical University, Lucknow Contact number- 05222257540
+किंग्स जॉर्ज मेडिकल यूनिवर्सिटी, लखनऊ संपर्क नंबर- 05222257540
 
-Institute of Medical Sciences, Banaras Hindu University, Varanasi Contact number – 05422367568
+इंस्टीट्यूट ऑफ मेडिकल साइंसेज, बनारस हिंदू विश्वविद्यालय, वाराणसी संपर्क नंबर - 05422367568
 
-Jawaharlal Nehru Medical College, Aligarh Contact number – 05712721165
+जवाहरलाल नेहरू मेडिकल कॉलेज, अलीगढ़ संपर्क नंबर - 05712721165
 
-### Uttarakhand
+### उत्तराखंड
 
-Government Medical College, Haldwani Contact number – 05946282824
+सरकारी मेडिकल कॉलेज, हल्द्वानी संपर्क नंबर - 05946282824
 
-### West Bengal
+### पश्चिम बंगाल
 
-National Institute of Cholera and Enteric Diseases, Kolkata Contact number – 03323633373
+नेशनल इंस्टीट्यूट ऑफ कॉलरा एंड एंटरिक डिजीज, कोलकाता संपर्क नंबर - 03323633373
 
-IPGMER, Kolkata Contact number – 03322041101
+IPGMER, कोलकाता संपर्क नंबर - 03322041101
 
-If you or anyone from your family needs to get tested, please visit one of the above-mentioned centers and do the needful.
-
+यदि आपको या आपके परिवार के किसी व्यक्ति को परीक्षण करवाने की आवश्यकता है, तो कृपया उपर्युक्त केंद्रों में से एक पर जाएँ और ज़रूरतमंदों की मदद करें।
