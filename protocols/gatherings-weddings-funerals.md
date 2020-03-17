@@ -1,12 +1,11 @@
 ---
-description: >-
-  How to handle community events such as Weddings, Funerals and Gatherings
-  amidst COVID-19
+विवरण:> -
+   शादियों, अंत्येष्टि और इकट्ठा करने जैसी सामुदायिक घटनाओं को कैसे संभालें
+   COVID-19 के बीच
 ---
 
-# Gatherings, Weddings, Funerals
+# इकट्ठा, शादियों, अंतिम संस्कार
 
 {% hint style="info" %}
-Work in Progress, refer to: [https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
+प्रगति में काम करें, देखें: [https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.htmlearch(https://www.cdc.gov/coronavirus/2019-ncov /community/large-events/index.html)
 {% endhint %}
-
