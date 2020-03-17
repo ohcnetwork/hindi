@@ -1,36 +1,35 @@
 ---
-description: Lists the common myths about COVID-19
+विवरण: COVID-19 के बारे में आम मिथकों को सूचीबद्ध करता है
 ---
 
-# Myths and Fake News
+# मिथक और फेक न्यूज़
 
-There are a lot of myths and fake news that are both dangerous to yourselves and others circulating on Social Media. Never share any information that you have not verified yourself or that isn't from official sources, it will do more harm than good.
+बहुत सारे मिथक और फर्जी खबरें हैं जो सोशल मीडिया पर प्रसारित होने वाले अपने आप को और दूसरों के लिए खतरनाक हैं। कभी भी ऐसी कोई जानकारी साझा न करें जिसे आपने स्वयं सत्यापित नहीं किया है या जो आधिकारिक स्रोतों से नहीं है, यह अच्छे से अधिक नुकसान करेगी।
 
-Here we have compiled a list of common myths and fake news about COVID-19. We have also linked the source of the article which proves it.
+यहां हमने COVID-19 के बारे में आम मिथकों और फर्जी खबरों की एक सूची तैयार की है। हमने लेख के स्रोत को भी जोड़ा है जो इसे साबित करता है।
 
 {% hint style="info" %}
-Work in Progress, in the meantime refer : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+इस बीच, प्रोग्रेस में काम करें, इस बीच देखें: [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-bustersthing(httpswww.who.int / आपात स्थिति / रोग / उपन्यास-कोरोना -2019 / सलाह के लिए सार्वजनिक / मिथक बस्टर्स)
 {% endhint %}
 
-## Does Drinking water and keeping your throat moist kills COVID-19 ?
+## क्या पानी पीना और अपने गले को नम रखना COVID-19 को मारता है?
 
-**No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.
+** नहीं *, सोशल मीडिया पर यह संदेश दिया गया है कि पीने (अधिमानतः गर्म) पानी पीने और अपने गले को नम रखने से संक्रमण को रोका जा सकता है। संदेश विभिन्न स्वास्थ्य संगठनों का भी हवाला देते हैं। यह एक मिथक है।
 
 {% hint style="warning" %}
-There \_\*\*\_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
+वहाँ \ _ \ _ * \ _ \ _ कोई वास्तविक सबूत नहीं है जो यह सुझाव दे रहा है कि पीने (गर्म या ठंडा) पानी से कोरोना वायरस संक्रमण को रोकने में मदद मिल सकती है।
 {% endhint %}
 
-Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
+स्रोत: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirusarios(https://factcheck.afp-health-authorities-did नहीं-कहते-पीने का पानी-होगा-रोकने-कोरोना)
 
-## Does COVID-19 spread thorough Air ?
+## क्या COVID-19 पूरी तरह से वायु फैलाती है?
 
-**No,** COVID-19 is not airborne, meaning it does not spread through Air. It spreads through contact with droplets containing the virus from the nose and mouths of people who are infected.
+** नहीं, ** COVID-19 हवाई नहीं है, जिसका अर्थ है कि यह वायु से नहीं फैलता है। यह संक्रमित लोगों के नाक और मुंह से वायरस वाली बूंदों के संपर्क से फैलता है।
 
-{% hint style="info" %}
-Even though the virus is not airborne there is still considerable risk as the virus is highly contagious. Follow the instructions given below to take necessary precautions.
+{% hint style="info" %} 
+हालांकि यह वायरस वायुजनित नहीं है, फिर भी काफी जोखिम है क्योंकि वायरस अत्यधिक संक्रामक है। आवश्यक सावधानी बरतने के लिए नीचे दिए गए निर्देशों का पालन करें।
 {% endhint %}
 
 {% page-ref page="precautions.md" %}
 
-Source : [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
-
+स्रोत: [https://www.who.int/news-room/qa-detail/qa-coronaviruses.com###((wtps://www.who.int/news-room/qa-detail-qa-coronaviruses# )
