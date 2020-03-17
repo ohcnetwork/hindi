@@ -1,30 +1,29 @@
-# Someone I know is Infected
+# मुझे पता है कि कोई व्यक्ति संक्रमित है
 
-Household members, intimate partners, and caregivers in a nonhealthcare setting may have close contact with a person with symptomatic, laboratory-confirmed COVID-19 or a person under investigation. Close contacts should monitor their health; they should call their healthcare provider right away if they develop symptoms suggestive of COVID-19 \(e.g., fever, cough, shortness of breath\)
+एक गैर-स्वास्थ्य देखभाल सेटिंग में घरेलू सदस्यों, अंतरंग भागीदारों और देखभाल करने वालों का रोगसूचक, प्रयोगशाला-पुष्टि COVID-19 या जांच के तहत एक व्यक्ति के साथ निकट संपर्क हो सकता है। निकट संपर्क उनके स्वास्थ्य की निगरानी करना चाहिए; अगर वे COVID-19 \ (जैसे, बुखार, खांसी, सांस की तकलीफ) के लक्षण का विकास करते हैं, तो उन्हें तुरंत अपने स्वास्थ्य सेवा प्रदाता को फोन करना चाहिए।
 
-## Close contacts should also follow these recommendations:
+## निकट संपर्कों को भी इन सिफारिशों का पालन करना चाहिए:
 
-* Make sure that you understand and can help the patient follow their healthcare provider’s instructions for medication\(s\) and care. You should help the patient with basic needs in the home and provide support for getting groceries, prescriptions, and other personal needs.
-* Monitor the patient’s symptoms. If the patient is getting sicker, call his or her healthcare provider and tell them that the patient has laboratory-confirmed COVID-19. This will help the healthcare provider’s office take steps to keep other people in the office or waiting room from getting infected. Ask the healthcare provider to call the local or state health department for additional guidance. If the patient has a medical emergency and you need to call 102, notify the dispatch personnel that the patient has, or is being evaluated for COVID-19.
-* Household members should stay in another room or be separated from the patient as much as possible. Household members should use a separate bedroom and bathroom, if available.
-* Prohibit visitors who do not have an essential need to be in the home.
-* Household members should care for any pets in the home. Do not handle pets or other animals while sick. For more information, see COVID-19 and Animals.
-* Make sure that shared spaces in the home have good air flow, such as by an air conditioner or an opened window, weather permitting.
-* Perform hand hygiene frequently. Wash your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains 60 to 95% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry. Soap and water should be used preferentially if hands are visibly dirty.
-* Avoid touching your eyes, nose, and mouth with unwashed hands.
-* The patient should wear a facemask when you are around other people. If the patient is not able to wear a facemask \(for example, because it causes trouble breathing\), you, as the caregiver, should wear a mask when you are in the same room as the patient.
-* Wear a disposable facemask and gloves when you touch or have contact with the patient’s blood, stool, or body fluids, such as saliva, sputum, nasal mucus, vomit, urine.
-  * Throw out disposable facemasks and gloves after using them. Do not reuse.
-  * When removing personal protective equipment, first remove and dispose of gloves. Then, immediately clean your hands with soap and water or alcohol-based hand sanitizer. Next, remove and dispose of facemask, and immediately clean your hands again with soap and water or alcohol-based hand sanitizer.
-* Avoid sharing household items with the patient. You should not share dishes, drinking glasses, cups, eating utensils, towels, bedding, or other items. After the patient uses these items, you should wash them thoroughly \(see below “Wash laundry thoroughly”\).
-* Clean all “high-touch” surfaces, such as counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables, every day. Also, clean any surfaces that may have blood, stool, or body fluids on them.
-  * Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
-* Wash laundry thoroughly.
-  * Immediately remove and wash clothes or bedding that have blood, stool, or body fluids on them.
-  * Wear disposable gloves while handling soiled items and keep soiled items away from your body. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after removing your gloves.
-  * Read and follow directions on labels of laundry or clothing items and detergent. In general, using a normal laundry detergent according to washing machine instructions and dry thoroughly using the warmest temperatures recommended on the clothing label.
-* Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
-* Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
+* सुनिश्चित करें कि आप समझते हैं और रोगी को दवाई के लिए अपने स्वास्थ्य सेवा प्रदाता के निर्देशों का पालन करने में मदद कर सकते हैं और देखभाल कर सकते हैं। आपको घर में बुनियादी जरूरतों के साथ रोगी की मदद करनी चाहिए और किराने का सामान, नुस्खे और अन्य व्यक्तिगत आवश्यकताओं को प्राप्त करने के लिए सहायता प्रदान करनी चाहिए।
+* रोगी के लक्षणों की निगरानी करें। यदि रोगी बीमार हो रहा है, तो अपने स्वास्थ्य सेवा प्रदाता को फोन करें और उन्हें बताएं कि रोगी के पास प्रयोगशाला-पुष्टि COVID-19 है। इससे स्वास्थ्य सेवा प्रदाता के कार्यालय को अन्य लोगों को कार्यालय या प्रतीक्षा कक्ष में संक्रमित होने से बचाने के लिए कदम उठाने में मदद मिलेगी। स्वास्थ्य सेवा प्रदाता से अतिरिक्त मार्गदर्शन के लिए स्थानीय या राज्य के स्वास्थ्य विभाग को कॉल करने के लिए कहें। यदि रोगी की मेडिकल इमरजेंसी है और आपको 102 पर कॉल करने की आवश्यकता है, तो डिस्पैच कर्मियों को सूचित करें जो मरीज के पास है, या सीओवीआईडी ​​-19 के लिए मूल्यांकन किया जा रहा है।
+* घर के सदस्यों को दूसरे कमरे में रहना चाहिए या जितना संभव हो रोगी से अलग होना चाहिए। यदि उपलब्ध हो तो घर के सदस्यों को एक अलग बेडरूम और बाथरूम का उपयोग करना चाहिए।
+* उन आगंतुकों को प्रतिबंधित करें जिनके पास घर में रहने की अनिवार्य आवश्यकता नहीं है।
+* घर के सदस्यों को घर के किसी भी पालतू जानवर की देखभाल करनी चाहिए। बीमार होने पर पालतू जानवरों या अन्य जानवरों को न संभालें। अधिक जानकारी के लिए, COVID-19 और पशु देखें।
+* सुनिश्चित करें कि घर में साझा स्थान में हवा का प्रवाह अच्छा है, जैसे कि एयर कंडीशनर या खुली खिड़की, मौसम की अनुमति।
+* हाथ की सफाई अक्सर करें। कम से कम 20 सेकंड के लिए अपने हाथों को अक्सर साबुन और पानी से धोएं या अल्कोहल-आधारित हैंड सैनिटाइज़र का उपयोग करें जिसमें 60 से 95% अल्कोहल हो, अपने हाथों की सभी सतहों को कवर करें और उन्हें एक साथ रगड़ें जब तक कि वे सूख न जाएं। साबुन और पानी का उपयोग अधिमानतः किया जाना चाहिए यदि हाथ नेत्रहीन गंदे हैं।
+* अपने हाथों, नाक और मुंह को अनचाहे हाथों से छूने से बचें।
+* जब आप अन्य लोगों के आस-पास हों तो मरीज को फेसमास्क पहनना चाहिए। यदि रोगी एक फेसमास्क \ _ (उदाहरण के लिए, क्योंकि यह साँस लेने में परेशानी का कारण बनता है) पहनने में सक्षम नहीं है, तो आपको, देखभाल करने वाले के रूप में, मास्क पहनना चाहिए जब आप रोगी के समान कमरे में हों।
+* जब आप स्पर्श करते हैं या रोगी के रक्त, मल, या शरीर के तरल पदार्थ जैसे लार, थूक, नाक के बलगम, उल्टी, मूत्र के संपर्क में आते हैं, तो एक डिस्पोजेबल फेसमास्क और दस्ताने पहनें।
+  * उपयोग करने के बाद डिस्पोजेबल फेसमास्क और दस्ताने बाहर फेंक दें। पुन: उपयोग न करें।
+  * व्यक्तिगत सुरक्षा उपकरण हटाते समय, पहले दस्ताने को हटा दें और डिस्पोज करें। फिर, तुरंत अपने हाथों को साबुन और पानी या शराब-आधारित हैंड सैनिटाइज़र से साफ करें। अगला, फेसमास्क को हटाएं और निपटान करें, और तुरंत अपने हाथों को फिर से साबुन और पानी या अल्कोहल-आधारित हैंड सैनिटाइज़र से साफ करें।
+* मरीज के साथ घरेलू सामान बांटने से बचें। आपको बर्तन, गिलास, कप, खाने के बर्तन, तौलिए, बिस्तर, या अन्य वस्तुओं को साझा नहीं करना चाहिए। रोगी इन वस्तुओं का उपयोग करने के बाद, आपको उन्हें अच्छी तरह से धोना चाहिए (नीचे "कपड़े धोने के लिए अच्छी तरह से धोएं")।
+* प्रतिदिन "हाई-टच" सतहों, जैसे काउंटर, टेबलटॉप, डॉर्कनॉब्स, बाथरूम फिक्स्चर, शौचालय, फोन, कीबोर्ड, टैबलेट और बेडसाइड टेबल को साफ करें। इसके अलावा, उन सतहों को साफ करें जिनमें रक्त, मल या शरीर के तरल पदार्थ हो सकते हैं।
+  * लेबल निर्देशों के अनुसार, एक घरेलू सफाई स्प्रे या पोंछे का उपयोग करें। लेबल में सफाई उत्पाद के सुरक्षित और प्रभावी उपयोग के लिए निर्देश शामिल हैं, जिसमें उत्पाद को लागू करते समय आपको सावधानी बरतनी चाहिए, जैसे दस्ताने पहनना और यह सुनिश्चित करना कि आपके पास उत्पाद के उपयोग के दौरान अच्छा वेंटिलेशन है।
+* कपड़े धोने को अच्छी तरह से धो लें।
+  * उन कपड़ों या बिस्तर को तुरंत हटा दें और उन पर खून, मल या शरीर के तरल पदार्थ रखें।
+  * गंदे सामान को संभालते समय डिस्पोजेबल दस्ताने पहनें और गंदे सामान को अपने शरीर से दूर रखें। अपने दस्ताने हटाने के तुरंत बाद अपने हाथों (साबुन और पानी या शराब आधारित हैंड सैनिटाइज़र के साथ) को साफ करें।
+  * कपड़े धोने या कपड़ों की वस्तुओं और डिटर्जेंट के लेबल पर दिशा-निर्देश पढ़ें और उनका पालन करें। सामान्य तौर पर, वॉशिंग मशीन निर्देशों के अनुसार एक सामान्य कपड़े धोने वाले डिटर्जेंट का उपयोग करना और कपड़ों के लेबल पर सुझाए गए गर्म तापमान का उपयोग करके अच्छी तरह से सूखना।
+* अन्य उपयोग किए गए डिस्पोजेबल दस्ताने, फेसमास्क और अन्य दूषित वस्तुओं को अन्य घरेलू कचरे के साथ निपटाने से पहले एक लाइन में रखे कंटेनर में रखें। इन वस्तुओं को संभालने के तुरंत बाद अपने हाथों (साबुन और पानी या शराब आधारित हैंड सैनिटाइज़र के साथ) को साफ करें। साबुन और पानी का उपयोग अधिमानतः किया जाना चाहिए यदि हाथ नेत्रहीन गंदे हैं।
+* अपने राज्य या स्थानीय स्वास्थ्य विभाग या स्वास्थ्य सेवा प्रदाता के साथ किसी भी अतिरिक्त प्रश्न पर चर्चा करें। अपने स्थानीय स्वास्थ्य विभाग से संपर्क करते समय उपलब्ध घंटों की जांच करें।
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
-
+स्रोत: [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#####( /guidance-prevent-spread.html#precautions)
