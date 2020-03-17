@@ -1,14 +1,15 @@
 ---
-description: >-
-  Page contains details of National Level Organisations currently handling COVID
-  Outbreak
+विवरण:> -
+   पृष्ठ में वर्तमान में COVID को संभालने वाले राष्ट्रीय स्तर के संगठनों का विवरण है
+   प्रकोप
 ---
 
-# National Level Organisations
+# राष्ट्रीय स्तर के संगठन
 
-## Ministry of Health and Family Welfare
+## स्वास्थ्य और परिवार कल्याण मंत्रालय
 
 {% embed url="https://www.mohfw.gov.in/" caption="" %}
 
-Corona Virus Helpline: **+91-11-23978046**
+कोरोना वायरस हेल्पलाइन: ** + 91-11-23978046 **
+
 

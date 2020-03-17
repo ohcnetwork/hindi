@@ -1,68 +1,68 @@
 ---
-description: >-
-  If you are sick with COVID-19 or suspect you are infected with the virus that
-  causes COVID-19, follow the steps below to help prevent the disease from
-  spreading to people in your home and community.
+विवरण:> -
+  यदि आप COVID-19 से बीमार हैं या संदेह है कि आप वायरस से संक्रमित हैं
+  COVID-19 का कारण बनता है, बीमारी को रोकने में मदद करने के लिए नीचे दिए गए चरणों का पालन करें
+  अपने घर और समुदाय के लोगों में फैल रहा है।
 ---
 
-# I am Infected
+# मैं संक्रमित हूं
 
-### Stay home except to get medical care
+### चिकित्सीय देखभाल प्राप्त करने के अलावा घर पर रहें
 
-* **Stay home:** People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.
-* **Avoid public areas:** Do not go to work, school, or public areas.
-* **Avoid public transportation:** Avoid using public transportation, ride-sharing, or taxis.
+* ** घर रहें: ** जो लोग COVID-19 से हल्के से बीमार हैं, वे अपनी बीमारी के दौरान घर पर अलग-थलग पड़ सकते हैं। आपको चिकित्सा देखभाल को छोड़कर अपने घर के बाहर की गतिविधियों को प्रतिबंधित करना चाहिए।
+* ** सार्वजनिक क्षेत्रों से बचें: ** काम, स्कूल या सार्वजनिक क्षेत्रों में न जाएं।
+* ** सार्वजनिक परिवहन से बचें: ** सार्वजनिक परिवहन, सवारी-साझाकरण या टैक्सियों का उपयोग करने से बचें।
 
-### Separate yourself from other people and animals in your home
+### अपने घर के अन्य लोगों और जानवरों से खुद को अलग करें
 
-* **Stay away from others:** As much as possible, you should stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available.
-* **Limit contact with pets & animals:** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
-* When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.
+** ** दूसरों से दूर रहें: ** जितना संभव हो, आपको एक विशिष्ट कमरे में रहना चाहिए और अपने घर के अन्य लोगों से दूर रहना चाहिए। इसके अलावा, यदि उपलब्ध हो तो आपको एक अलग बाथरूम का उपयोग करना चाहिए।
+** * पालतू जानवरों और जानवरों के साथ संपर्क सीमित करें: ** आपको COVID-19 के साथ बीमार होने पर पालतू जानवरों और अन्य जानवरों के साथ संपर्क प्रतिबंधित करना चाहिए, जैसे आप अन्य लोगों के आसपास करते हैं। हालाँकि COVID-19 से पालतू जानवरों या अन्य जानवरों के बीमार होने की खबरें नहीं आई हैं, फिर भी यह अनुशंसा की जाती है कि COVID-19 के साथ बीमार लोग जानवरों के साथ संपर्क करें जब तक कि वायरस के बारे में अधिक जानकारी न हो।
+* जब संभव हो, बीमार होने पर अपने जानवरों की देखभाल के लिए अपने घर का एक और सदस्य रखें। आप COVID -19, पेटिंग, snuggling, चूमा या पाला जा रहा है, और साझा करने के भोजन सहित अपने पालतू जानवरों के साथ से बचने के संपर्क के साथ बीमार हैं तो। यदि आप बीमार होने के दौरान अपने पालतू जानवरों की देखभाल करते हैं या जानवरों के आसपास रहते हैं, तो पालतू जानवरों के साथ बातचीत करने से पहले और बाद में अपने चेहरे को धो लें।
 
-### Call ahead before visiting your doctor
+### अपने डॉक्टर से मिलने से पहले कॉल करें
 
-* If you have a medical appointment, call the healthcare provider and tell them that you have or may have COVID-19. This will help the healthcare provider’s office take steps to keep other people from getting infected or exposed.
+* यदि आपके पास एक चिकित्सा नियुक्ति है, तो स्वास्थ्य सेवा प्रदाता को कॉल करें और उन्हें बताएं कि आपके पास सीओवीआईडी ​​-19 है या हो सकता है। इससे स्वास्थ्य सेवा प्रदाता के कार्यालय को अन्य लोगों को संक्रमित या उजागर होने से बचाने के लिए कदम उठाने में मदद मिलेगी।
 
-### Wear a facemask if you are sick
+### बीमार होने पर फेसमास्क पहनें
 
-* **If you are sick:** You should wear a facemask when you are around other people \(e.g., sharing a room or vehicle\) or pets and before you enter a healthcare provider’s office.
-* **If you are caring for others:** If the person who is sick is not able to wear a facemask \(for example, because it causes trouble breathing\), then people who live with the person who is sick should not stay in the same room with them, or they should wear a facemask if they enter a room with the person who is sick.
+** * यदि आप बीमार हैं: ** आपको अन्य लोगों के आसपास (जैसे, एक कमरे या वाहन \) या पालतू जानवरों को साझा करने से पहले एक फेसमास्क पहनना चाहिए और इससे पहले कि आप एक स्वास्थ्य सेवा प्रदाता के कार्यालय में प्रवेश करें।
+** * यदि आप दूसरों की देखभाल कर रहे हैं: ** यदि जो व्यक्ति बीमार है वह फेसमास्क \ _ (उदाहरण के लिए, क्योंकि यह सांस लेने में परेशानी पैदा करता है) पहनने में सक्षम नहीं है, तो जो लोग बीमार हैं उनके साथ रहना चाहिए उनके साथ एक ही कमरे में रहें, या यदि वे बीमार व्यक्ति के साथ एक कमरे में प्रवेश करते हैं, तो उन्हें फेसमास्क पहनना चाहिए।
 
-### Cover your coughs and sneezes
+### अपनी खांसी और छींक को कवर करें
 
-* **Cover:** Cover your mouth and nose with a tissue when you cough or sneeze.
-* **Dispose:** Throw used tissues in a lined trash can.
-* **Wash hands:** Immediately wash your hands with soap and water for at least 20 seconds or, if soap and water are not available, clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+* ** कवर: ** खांसी या छींक आने पर अपने मुंह और नाक को एक ऊतक से ढक लें।
+** * निपटान: ** एक कूड़ेदान में इस्तेमाल किए गए ऊतकों को फेंक सकते हैं।
+** * हाथ धोएं: ** अपने हाथों को साबुन और पानी से कम से कम 20 सेकंड तक धोएं या यदि साबुन और पानी उपलब्ध नहीं हैं, तो अपने हाथों को अल्कोहल-आधारित हैंड सैनिटाइज़र से साफ़ करें, जिसमें कम से कम 60% अल्कोहल हो।
 
-### Clean your hands often
+### अपने हाथों को अक्सर साफ करें
 
-* **Wash hands:** Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food.
-* **Hand sanitizer**: If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry.
-* **Soap and water:** Soap and water are the best option if hands are visibly dirty.
-* **Avoid touching:** Avoid touching your eyes, nose, and mouth with unwashed hands.
+** * हाथ धोना: ** कम से कम 20 सेकंड के लिए अपने हाथों को अक्सर साबुन और पानी से धोएं, खासकर आपकी नाक बहने, खांसने या छींकने के बाद; बाथरूम में जा रहा है; और खाना खाने या तैयार करने से पहले।
+** * हैंड सैनिटाइज़र **: यदि साबुन और पानी आसानी से उपलब्ध नहीं हैं, तो कम से कम 60% अल्कोहल के साथ अल्कोहल-आधारित हैंड सैनिटाइज़र का उपयोग करें, अपने हाथों की सभी सतहों को कवर करें और उन्हें एक साथ रगड़ें जब तक कि वे सूख न जाएं।
+* * साबुन और पानी: ** साबुन और पानी सबसे अच्छा विकल्प है अगर हाथ नेत्रहीन गंदे हैं।
+** ** छूने से बचें: ** अपने हाथों, नाक और मुँह को अनचाहे हाथों से छूने से बचें।
 
-### Avoid sharing personal household items
+### व्यक्तिगत घरेलू सामानों को साझा करने से बचें
 
-* **Do not share:** You should not share dishes, drinking glasses, cups, eating utensils, towels, or bedding with other people or pets in your home.
-* **Wash thoroughly after use:** After using these items, they should be washed thoroughly with soap and water.
+** ** शेयर न करें: ** आपको अपने घर में अन्य लोगों या पालतू जानवरों के साथ बर्तन, गिलास, कप, खाने के बर्तन, तौलिए, या बिस्तर साझा नहीं करना चाहिए।
+* * उपयोग के बाद अच्छी तरह से धोएं: ** इन वस्तुओं का उपयोग करने के बाद, उन्हें साबुन और पानी से अच्छी तरह से धोया जाना चाहिए।
 
-### Clean all “high-touch” surfaces everyday
+### हर रोज "उच्च-स्पर्श" सतहों को साफ करें
 
-* **Clean and disinfect:** Practice routine cleaning of high touch surfaces. \*\*High touch surfaces include counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables.
-* **Disinfect areas with bodily fluids:** Also, clean any surfaces that may have blood, stool, or body fluids on them.
-* **Household cleaners:** Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
+** * स्वच्छ और कीटाणु रहित: ** उच्च स्पर्श सतहों की नियमित सफाई का अभ्यास करें। \ * \ * उच्च स्पर्श सतहों में काउंटरर्स, टेबलटॉप्स, डॉर्कबॉब्स, बाथरूम जुड़नार, शौचालय, फोन, कीबोर्ड, टैबलेट और बेडसाइड टेबल शामिल हैं।
+* ** शारीरिक द्रव्यों के साथ क्षेत्रों कीटाणुरहित करें: ** इसके अलावा, उन सतहों को साफ करें जिनमें रक्त, मल या शरीर के तरल पदार्थ हो सकते हैं।
+* ** घरेलू क्लीनर: लेबल निर्देशों के अनुसार, एक घरेलू सफाई स्प्रे या पोंछे का उपयोग करें। लेबल में सफाई उत्पाद के सुरक्षित और प्रभावी उपयोग के लिए निर्देश शामिल हैं, जिसमें उत्पाद को लागू करते समय आपको सावधानी बरतनी चाहिए, जैसे दस्ताने पहनना और यह सुनिश्चित करना कि आपके पास उत्पाद के उपयोग के दौरान अच्छा वेंटिलेशन है।
 
-## Monitor your symptoms
+## अपने लक्षणों की निगरानी करें
 
-* **Seek medical attention:** Seek prompt medical attention if your illness is worsening \(e.g., difficulty breathing\).
-* **Call your doctor:** Before seeking care, call your healthcare provider and tell them that you have, or are being evaluated for, COVID-19.
-* **Wear a facemask when sick:** Put on a facemask before you enter the facility. These steps will help the healthcare provider’s office to keep other people in the office or waiting room from getting infected or exposed.
-* **Alert health department:** Ask your healthcare provider to call the local or state health department. Persons who are placed under active monitoring or facilitated self-monitoring should follow instructions provided by their local health department or occupational health professionals, as appropriate.
+* ** चिकित्सा पर ध्यान दें: ** यदि आपकी बीमारी बिगड़ रही है तो चिकित्सा पर ध्यान दें (उदा।, सांस लेने में कठिनाई)।
+** ** अपने डॉक्टर को फोन करें: ** देखभाल करने से पहले, अपने स्वास्थ्य सेवा प्रदाता को फोन करें और उन्हें बताएं कि आपके पास, या सीओवीआईडी ​​-19 का मूल्यांकन किया जा रहा है।
+* बीमार होने पर एक फेसमास्क पहनें: ** सुविधा दर्ज करने से पहले एक फेसमास्क पर रखें। ये कदम स्वास्थ्य सेवा प्रदाता के कार्यालय को अन्य लोगों को कार्यालय या प्रतीक्षा कक्ष में संक्रमित या उजागर होने से बचाने में मदद करेंगे।
+** * चेतावनी स्वास्थ्य विभाग: ** अपने स्वास्थ्य सेवा प्रदाता से स्थानीय या राज्य के स्वास्थ्य विभाग को फोन करने के लिए कहें। जिन लोगों को सक्रिय निगरानी या स्व-निगरानी के तहत रखा गया है, उन्हें अपने स्थानीय स्वास्थ्य विभाग या व्यावसायिक स्वास्थ्य पेशेवरों द्वारा दिए गए निर्देशों का पालन करना चाहिए।
 
-## Discontinuing home isolation
+## घर के अलगाव को बंद करना
 
-* **Stay at home until instructed to leave:** Patients with confirmed COVID-19 should remain under home isolation precautions until the risk of secondary transmission to others is thought to be low.
-* **Talk to your healthcare provider:** The decision to discontinue home isolation precautions should be made on a case-by-case basis, in consultation with healthcare providers and state and local health departments.
+** ** छोड़ने के निर्देश दिए जाने तक घर पर रहें: ** पुष्टि किए गए COVID-19 वाले मरीजों को घर के अलगाव की सावधानियों में रहना चाहिए जब तक कि दूसरों को माध्यमिक संचरण का जोखिम कम न हो।
+** ** अपने स्वास्थ्य सेवा प्रदाता से बात करें: ** स्वास्थ्य सेवा प्रदाताओं के साथ और राज्य और स्थानीय स्वास्थ्य विभागों के परामर्श से, घर के अलगाव की सावधानी बरतने का निर्णय मामला-दर-मामला आधार पर किया जाना चाहिए।
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
+स्रोत: [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.htmldes(https://www.cdc.gov/coronavirus/2019-ncov/about/steps- जब-sick.html)
 

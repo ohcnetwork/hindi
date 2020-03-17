@@ -1,46 +1,44 @@
 ---
-description: Describes the necessary preventive measures to the spread of COVID-19
+विवरण: COVID-19 के प्रसार के लिए आवश्यक निवारक उपायों का वर्णन करता है
 ---
 
-# Precautions and Preventive Measures
+# सावधानियां और निवारक उपाय
 
-Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
+भले ही COVID-19 एक अत्यधिक संक्रामक बीमारी है, लेकिन पर्याप्त सावधानी बरतने से आप संक्रमित होने से बच सकते हैं।
 
-The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
+वायरस प्रभावित व्यक्ति की नाक या मुंह से छोटी बूंदों के माध्यम से फैलता है, जब व्यक्ति छींकता है या खांसी करता है। ये बूंदें स्रोत से 1 मीटर से अधिक की यात्रा कर सकती हैं और वस्तुओं और सतहों पर उतर सकती हैं। अन्य लोग सतह को छूकर और फिर अपनी आंखों, मुंह या नाक को छूकर वायरस को पकड़ सकते हैं। यदि प्रभावित व्यक्ति के बीच की दूरी एक मीटर से कम है, तो इन बूंदों को जोड़कर वायरस को भी पकड़ा जा सकता है।
 
-## Preventive Measures
+## निवारक उपाय
 
-There is no data showing that the virus can be transmitted through air. Hence, follow these steps to protect yourselves and the ones around you.
+ऐसा कोई डेटा नहीं है जो दिखा रहा हो कि वायरस हवा के माध्यम से प्रसारित हो सकता है। इसलिए, अपने और अपने आसपास के लोगों की सुरक्षा के लिए इन चरणों का पालन करें।
 
 {% hint style="danger" %}
-If you are above 60+ years of age or have any existing or past medical condition such as Heart diseases, Diabetes, Respiratory Diseases, Hypertension or any serious illness, you will have to take special precautions here.
+यदि आप 60+ वर्ष से अधिक उम्र के हैं या हृदय रोग, मधुमेह, श्वसन संबंधी रोग, उच्च रक्तचाप या किसी गंभीर बीमारी जैसी कोई मौजूदा या पिछली चिकित्सा स्थिति है, तो आपको यहां विशेष सावधानी बरतनी होगी।
 {% endhint %}
 
-{% page-ref page="old-and-people-with-medical-issues.md" %}
+{% page-ref page = "old- and-people-with-medical-issues.md"%}
 
-### Washing your hands frequently
+### बार-बार हाथ धोना
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+चूंकि संचरण मुख्य रूप से आपके हाथों से होता है, इसलिए आपको उन्हें बार-बार और अच्छी तरह से धोना चाहिए। उपलब्ध होने पर साबुन और पानी का उपयोग करने की सिफारिश की जाती है, अन्यथा कीटाणुओं को मारने के लिए पर्याप्त मात्रा में अल्कोहल के साथ हाथ सेनिटाइज़र का उपयोग करें।
 
-> **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
+> ** अपने हाथों को साबुन और पानी से कम से कम 20 सेकंड या अल्कोहल आधारित हैंड सैनिटाइज़र से धोएं। **
 
-### Avoid Touching Your Eyes, Nose and Mouth
+### अपनी आंखें, नाक और मुंह को छूने से बचें
 
-The virus can come in contact with your skin at any time, particularly your hands. If the contaminated skin touched your eyes, nose or mouth the virus can be transferred into your body thereby infecting you.
+वायरस किसी भी समय आपकी त्वचा के संपर्क में आ सकता है, विशेष रूप से आपके हाथों से। यदि दूषित त्वचा आपकी आंखों, नाक या मुंह को छूती है, तो वायरस आपके शरीर में स्थानांतरित हो सकता है, जिससे आप संक्रमित हो सकते हैं।
 
-> **Don't touch your face without washing your hands first.**
+> ** पहले अपने हाथ धोने के बिना अपना चेहरा मत छुओ। **
 
-### **Maintain Distance**
+### ** दूरी बनाए रखें **
 
-Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
+आपके स्थानीय समुदाय में इसके प्रकोप के स्तर के आधार पर [सलाह दी गई] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) पर सुरक्षित दूरी बनाए रखना है- खांसने या छींकने वाले किसी भी व्यक्ति से कम से कम 1 मीटर (3 फीट) दूर। यदि आप उस व्यक्ति के छींकने या खांसने के आसपास के क्षेत्र में हैं, तो वे छोटी बूंदें पैदा कर सकते हैं जिन्हें आप संक्रमित कर सकते हैं और संक्रमित हो सकते हैं यदि व्यक्ति संक्रमित है।
 
-### Cover Your Mouth and Nose while Sneezing or Coughing
+छींकते या खांसते समय ### अपने मुंह और नाक को ढकें
 
-If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19.
+यदि आप अपने चेहरे को मुड़े हुए कोहनी या हाथ के कुर्च से ढकते समय खांसते या छींकते हैं। यह फ़्लू, कोल्ड या COVID-19 जैसे फैलने वाले वायरस को रोकने में मदद करेगा।
 
-{% hint style="info" %}
-If you think you have been infected, follow these specialized instructions for your safety and others.
+{% hint style="info" %}यदि आपको लगता है कि आप संक्रमित हो गए हैं, तो अपनी सुरक्षा और दूसरों के लिए इन विशेष निर्देशों का पालन करें।
 {% endhint %}
 
 {% page-ref page="action/i-am-infected.md" %}
-
