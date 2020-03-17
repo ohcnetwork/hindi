@@ -1,16 +1,19 @@
----
-description: >-
-  COVID-19 is an International Pandemic. Countless International Organizations
-  are involved in the prevention, containment and eradication of the virus.
----
+### उत्तर प्रदेश
 
-# International Organizations
+किंग्स जॉर्ज मेडिकल यूनिवर्सिटी, लखनऊ संपर्क नंबर- 05222257540
 
-## World Health Organization
+इंस्टीट्यूट ऑफ मेडिकल साइंसेज, बनारस हिंदू विश्वविद्यालय, वाराणसी संपर्क नंबर - 05422367568
 
-{% embed url="https://www.who.int/health-topics/coronavirus" caption="" %}
+जवाहरलाल नेहरू मेडिकल कॉलेज, अलीगढ़ संपर्क नंबर - 05712721165
 
-## Centers for Disease Control and Prevention
+### उत्तराखंड
 
-{% embed url="https://www.cdc.gov/coronavirus/2019-nCoV/summary.html" caption="" %}
+सरकारी मेडिकल कॉलेज, हल्द्वानी संपर्क नंबर - 05946282824
 
+### पश्चिम बंगाल
+
+नेशनल इंस्टीट्यूट ऑफ कॉलरा एंड एंटरिक डिजीज, कोलकाता संपर्क नंबर - 03323633373
+
+IPGMER, कोलकाता संपर्क नंबर - 03322041101
+
+यदि आपको या आपके परिवार के किसी व्यक्ति को परीक्षण करवाने की आवश्यकता है, तो कृपया उपर्युक्त केंद्रों में से एक पर जाएँ और ज़रूरतमंदों की मदद करें।
