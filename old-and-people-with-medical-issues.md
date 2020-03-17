@@ -1,57 +1,55 @@
 ---
-description: >-
-  COVID-19 proves fatal mostly in old and people with underlying medical issues
-  (both present and past). This guide outlines extra precautions to be taken.
+विवरण:> -
+  COVID-19 ज्यादातर पुराने और अंतर्निहित चिकित्सा मुद्दों वाले लोगों में घातक साबित होता है
+  (वर्तमान और अतीत दोनों)। यह मार्गदर्शिका अतिरिक्त सावधानी बरतने की रूपरेखा देती है।
 ---
 
-# Old People and People with Medical Issues
+# पुराने लोगों और चिकित्सा मुद्दों वाले लोग
 
-People above 70 years of age and people with medical issues either currently or previously are at the most risk from COVID-19. This data shows the elderly are at a much greater risk than young people.
+70 वर्ष से अधिक आयु के लोग और वर्तमान में या पहले से चिकित्सा मुद्दों वाले लोग COVID-19 से सबसे अधिक जोखिम में हैं। इस डेटा से पता चलता है कि बुजुर्ग युवा लोगों की तुलना में बहुत अधिक जोखिम में हैं।
 
-| Age Group | Mortality Rate % |
-| :--- | ---: |
-| 80 + | 14.8 % |
-| 70 - 79 | 8 % |
+| आयु समूह | मृत्यु दर% |
+| : --- | ---: |
+| 80 + | 14.8% |
+| 70 - 79 | 8% |
 | 50 - 59 | 1.3% |
-| 40 - | &lt; 0.5 % |
+| 40 - | <0.5% |
 
-With the available data there are no reported deaths of children under 10 years of age, and children seem to have a very low mortality rate from COVID-19.
+उपलब्ध आंकड़ों के साथ 10 वर्ष से कम उम्र के बच्चों की मृत्यु की सूचना नहीं है, और लगता है कि बच्चों की मृत्यु दर COVID-19 से बहुत कम है।
 
-The people with preexisting medical conditions tell a similar story. People with underlying medical conditions are at a greater risk than people without any predisposed medical condition. \([source](https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions)\)
+Preexisting चिकित्सा शर्तों वाले लोग एक समान कहानी बताते हैं। अंतर्निहित चिकित्सा की स्थिति वाले लोग बिना किसी पूर्वनिर्धारित चिकित्सा स्थिति के लोगों की तुलना में अधिक जोखिम में हैं। \ ([स्रोत] (https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions) \)
 
-| Medical Condition | Mortality Rate % |
-| :--- | ---: |
-| Cardiovascular Disease | 10.5 % |
-| Diabetes | 7.3 % |
-| Chronic Respiratory Disease | 6.3 % |
-| Hypertension | 6.0 % |
-| Cancer | 5.6 % |
-| No Health Condition | 0.9 % |
+| मेडिकल कंडीशन | मृत्यु दर% |
+| : --- | ---: |
+| हृदय रोग | 10.5% |
+| मधुमेह | 7.3% |
+| जीर्ण श्वसन रोग | 6.3% |
+| उच्च रक्तचाप | 6.0% |
+| कैंसर | 5.6% |
+| कोई स्वास्थ्य स्थिति नहीं | 0.9% |
 
-This all indicates that if you belong to any of the above said category you are at **High Risk** from COVID-19. You will need to take special precautions.
+यह सब इंगित करता है कि यदि आप उपरोक्त में से किसी भी श्रेणी के हैं तो आप COVID -19 से ** उच्च जोखिम ** पर हैं। आपको विशेष सावधानी बरतने की आवश्यकता होगी।
 
-## Extra Precautions for People at Higher Risk
+## उच्च जोखिम वाले लोगों के लिए अतिरिक्त सावधानियां
 
-The above said people in the high risk category should follow these extra precautions to the ones specified in the guide.
+उक्त लोगों ने कहा कि उच्च जोखिम वाले वर्ग के लोगों को इन अतिरिक्त सावधानियों का पालन गाइड में निर्दिष्ट करना चाहिए।
 
-1. Stock up on groceries and home supplies to avoid grocery visits and/or orders.
-2. Take extra care to maintain safe distance \(1 metre ideally\) from others
-3. When out in public on an absolutely necessary errand, limit contact and wash your hands often.
-4. Avoid crowds as much as possible
-5. Avoid all non essential intercity travels
+1. किराने की यात्राओं और / या आदेशों से बचने के लिए किराने का सामान और घर की आपूर्ति पर स्टॉक।
+2. दूसरों से सुरक्षित दूरी (1 मीटर आदर्श रूप से) बनाए रखने के लिए अतिरिक्त देखभाल करें
+3. जब एक पूरी तरह से आवश्यक गड़बड़ी पर सार्वजनिक रूप से संपर्क करें, तो संपर्क सीमित करें और अपने हाथों को अक्सर धोएं।
+4. जितना संभव हो भीड़ से बचें
+5. सभी गैर जरूरी इंटरसिटी यात्रा से बचें
 
-### Supplies
+### आपूर्ति
 
-1. Contact your healthcare provider \(doctor/clinic/hospital\) to ask about obtaining extra necessary medications in case of an outbreak - you might need to stay indoors for a prolonged period of time.
-2. Over the counter supplies \(tissues etc\) and medicines could be procured and kept ready in case you fall sick and need basic home treatment. Most people will be able to recover at home.
-3. Have enough household items on groceries on hand to avoid unnecessary outside contact
+1. एक प्रकोप के मामले में अतिरिक्त आवश्यक दवाएं प्राप्त करने के बारे में पूछने के लिए अपने स्वास्थ्य सेवा प्रदाता (डॉक्टर / क्लिनिक / अस्पताल) से संपर्क करें - आपको लंबे समय तक घर के अंदर रहने की आवश्यकता हो सकती है।
+2. काउंटर पर आपूर्ति (टिशू आदि) और दवाइयां खरीदी जा सकती हैं और यदि आप बीमार पड़ते हैं और बुनियादी घरेलू उपचार की आवश्यकता होती है, तो तैयार रखी जा सकती है। ज्यादातर लोग घर पर ही ठीक हो पाएंगे।
+3. अनावश्यक बाहरी संपर्क से बचने के लिए हाथ पर किराने का सामान रखें
 
-### If COVID-19 is spreading in your area
+### यदि COVID-19 आपके क्षेत्र में फैल रहा है
 
-Take extra measures to ensure safe distance from others
+दूसरों से सुरक्षित दूरी सुनिश्चित करने के लिए अतिरिक्त उपाय करें
 
-1. Stay at home as much as possible
-2. Consider ways of getting supplies delivered to your home through
-
-   family, social or commericial networks
-
+1. जितना हो सके घर पर रहें
+2. पारिवारिक, सामाजिक या वाणिज्यिक नेटवर्क के माध्यम से अपने घर में आपूर्ति होने के तरीकों पर विचार करें
+   
