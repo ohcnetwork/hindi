@@ -1,7 +1,8 @@
-# Pastoral Care 
-Officials are arguing over whether the novel coronavirus has reached the level of pandemic, as outbreaks continue to spread globally. Meanwhile, religious leaders still must care for people—many of whom are feeling a rise in anxiety verging on panic.
+# चरगाही की देखभाल 
+अधिकारी इस बात पर बहस कर रहे हैं कि क्या उपन्यास कोरोनावायरस महामारी के स्तर तक पहुंच गया है, क्योंकि वैश्विक स्तर पर इसका प्रकोप जारी है।
+इस बीच, धार्मिक नेताओं को अभी भी लोगों की देखभाल करनी चाहिए - जिनमें से कई घबराहट में चिंता की स्थिति में वृद्धि महसूस कर रहे हैं।
 
-### How can ministers, chaplains, counselors, and educators accompany people pastorally through this valley of anxiety, fear, and death? Here are 10 brief guidelines.
+### चिंता, भय, और मौत की घाटी के माध्यम से मंत्री, पादरी, परामर्शदाता और शिक्षक कैसे लोगों के साथ रह सकते हैं? यहां 10 संक्षिप्त दिशानिर्देश दिए गए हैं।
 
 1. Monitor and follow the health guidelines. The Centers for Disease Control, the World Health Organization, and your state health department are monitoring the situation closely. Follow their guidelines. Stay healthy yourself. (Like the flight attendant says: when the oxygen masks drop, put your own mask on first before helping anyone else.) Model for others how to show up without panic. Basic and accurate information is widely available, but sometimes when anxiety is high, even looking for the basics becomes especially challenging. Providing it can be part of pastoral care.
 
