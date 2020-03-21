@@ -5,7 +5,7 @@
 * [लक्षण](symptoms.md)
 * [वृद्ध लोगों और चिकित्सा मुद्दों वाले लोग](old-and-people-with-medical-issues.md)
 * [केरल सरकार द्वारा स्वास्थ्य सलाहकार दिशानिर्देश](health-advisories-by-kerala-government.md)
-* [काल्पनिक व्यक्ति और जाली समाचार](myths-and-fake-news.md)
+* [कल्पित और जाली समाचार](myths-and-fake-news.md)
 * [सामान्य प्रश्न](faq.md)
 * [योगदान](contribute.md)
 
@@ -39,4 +39,3 @@
 * [कोरोना के दौरान दूर से काम करने के लिए प्रभावी उपकरण](resources/effective-tool-to-work-remotely-during-corona.md)
 * [कोरोना प्रकोप का वैश्विक मानचित्र](https://coronavirus.jhu.edu/map.html)
 * [स्त्रोत](resources/sources.md)
-
