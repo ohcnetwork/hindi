@@ -1,23 +1,22 @@
 ---
 description: >-
-  Gives the Contact Details of State Level Organizations handling the COVID-19
-  Crisis
+COVID-19 को संभालने वाले राज्य स्तरीय संगठनों के संपर्क विवरण देता है संकट
 ---
 
-# State and District Level Organizations
+# राज्य और जिला स्तर के संगठन
 
-COVID-19 is kept in check by the timely and efficient intervention from the Local and State Government Organizations.
+सीओवीआईडी ​​-19 को स्थानीय और राज्य सरकार के संगठनों के समयबद्ध और कुशल हस्तक्षेप द्वारा जांच में रखा जाता है।
 
-## Directorate of Health Services Kerala
+## स्वास्थ्य सेवा निदेशालय केरल
 
 {% embed url="http://dhs.kerala.gov.in/" caption="" %}
 
-## Control Room Contact Information
+## कंट्रोल रूम संपर्क जानकारी
 
-Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the organizations at the forefront of containing the virus.
+नीचे दिए गए संगठन वायरस से युक्त होने के मामले में सार्वजनिक रूप से उपलब्ध [संपर्क विवरण] (http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) हैं।
 
-| Authority | Phone | Phone | Phone |
-| :--- | ---: | ---: | ---: |
-| **STATE** | 0471-2309250 | 0471-2309251 | 0471-2309252 |
-| DISHA | 1056 | 0471-2552056 |  |
+| प्राधिकरण | फोन | फोन | फोन |
+| : --- | ---: | ---: | ---: |
+| ** स्टेट ** | 0471-2309250 | 0471-2309251 | 0471-2309252 |
+| DISHA | 1056 | 0471-2552056 | |
 

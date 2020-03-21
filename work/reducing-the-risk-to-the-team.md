@@ -1,34 +1,36 @@
 ---
-description: How can you reduce the risk to team productivity in the midst of an outbreak
+description: आप प्रकोप के बीच में टीम की उत्पादकता के जोखिम को कैसे कम कर सकते हैं
+
 ---
 
-# Reducing the risk to your team
+# अपनी टीम के लिए जोखिम को कम करना
 
-#### Prevention
+#### निवारण
 
-Employers should take all practicable steps to mitigate risk and protect workers at all times from workplace hazards.
+नियोक्ताओं को जोखिम को कम करने और कार्यस्थल के खतरों से हर समय श्रमिकों की रक्षा करने के लिए सभी व्यावहारिक कदम उठाने चाहिए।
 
-There are a number of actions employers can take to minimize the risk of spreading of infectious diseases in the workplace:
+कार्यस्थल में संक्रामक रोगों के फैलने के जोखिम को कम करने के लिए नियोक्ता कई कार्रवाई कर सकते हैं:
 
-* Encourage workers to follow the basic personal actions to stop the spread of infectious diseases
-* Provide appropriate protection to staff who, by the nature of their work, may be required to have contact with people who are sick
-* Regular cleaning of the workplace environment will minimize the spread of infection by reducing workers' contact with contaminated surfaces. Where possible, use disposable cloths to clean surfaces. Reusable cloths should be cleaned, disinfected and then dried after use.
-* Enclosed spaces can increase the spread of infectious diseases. Employers should ensure air conditioning systems are well maintained. It is advisable that air conditioning systems do not re-circulate air and are vented to the outside as much as possible.
-* Consider work-from-home option for employees. For those who have special compliance to follow \(such as HIPAA\), may setup a private VPN for the employees.
 
-#### Contingency
+* संक्रामक रोगों के प्रसार को रोकने के लिए बुनियादी व्यक्तिगत क्रियाओं का पालन करने के लिए श्रमिकों को प्रोत्साहित करें
+* उन कर्मचारियों को उचित सुरक्षा प्रदान करें, जो अपने काम की प्रकृति से, बीमार लोगों से संपर्क करने के लिए आवश्यक हो सकते हैं
+* कार्यस्थल के वातावरण की नियमित सफाई दूषित सतहों के साथ श्रमिकों के संपर्क को कम करके संक्रमण के प्रसार को कम करेगी। जहां संभव हो, सतहों को साफ करने के लिए डिस्पोजेबल कपड़े का उपयोग करें। पुन: प्रयोज्य कपड़े को साफ किया जाना चाहिए, कीटाणुरहित और फिर उपयोग के बाद सूख जाना चाहिए।
+* संलग्न स्थान संक्रामक रोगों के प्रसार को बढ़ा सकते हैं। नियोक्ताओं को यह सुनिश्चित करना चाहिए कि एयर कंडीशनिंग सिस्टम अच्छी तरह से बनाए रखा जाए। यह सलाह दी जाती है कि एयर कंडीशनिंग सिस्टम हवा को फिर से प्रसारित नहीं करता है और जितना संभव हो उतना बाहर की ओर जाता है।
+* कर्मचारियों के लिए काम से घर के विकल्प पर विचार करें। जिन लोगों का अनुसरण करने के लिए विशेष अनुपालन है (जैसे कि HIPAA \), वे कर्मचारियों के लिए एक निजी वीपीएन सेटअप कर सकते हैं।
 
-* Assess how the business could be disrupted by coronavirus;
-* Evaluate existing contracts with suppliers, customers, and other parties and consider force majeure provisions;
-* Consider temporary closure of office, work from home policies and/or possible leave for employees; and
-* Institute contingency travel plans.
+#### आकस्मिकता
 
-#### Team allocation
+* आकलन करें कि कोरोनावायरस द्वारा व्यवसाय को कैसे बाधित किया जा सकता है;
+* आपूर्तिकर्ताओं, ग्राहकों, और अन्य दलों के साथ मौजूदा अनुबंधों का मूल्यांकन करें और बल व्यवस्था के प्रावधानों पर विचार करें;
+* कार्यालय के अस्थायी समापन पर विचार करें, घर की नीतियों और कर्मचारियों के लिए / या संभावित छुट्टी से काम करें; तथा
+* संस्थान आकस्मिक यात्रा की योजना।
 
-Companies like IBS have employed strategies similar to below to reduce the risk of productivity drop in case of an outbreak:
+#### टीम आवंटन
 
-* Re-Organize the team so that employees who have higher risk of contracting the infection are not placed with those who have lower risk. 
-* If Work from home cannot be allotted to all the employees, make sure around half of the employees in a team have work from home facility, so that in case of an outbreak, the entire team is not affected. 
-* Keep the team size to a minimum to reduce the spread.
+IBS जैसी कंपनियों ने प्रकोप के मामले में उत्पादकता में गिरावट के जोखिम को कम करने के लिए नीचे के समान रणनीति बनाई है:
+
+* टीम को फिर से व्यवस्थित करें ताकि जिन कर्मचारियों को संक्रमण का खतरा अधिक हो, उन्हें कम जोखिम वाले लोगों के साथ नहीं रखा जाए।
+* यदि घर से काम सभी कर्मचारियों को आवंटित नहीं किया जा सकता है, तो सुनिश्चित करें कि एक टीम में लगभग आधे कर्मचारी घर की सुविधा से काम करते हैं, ताकि प्रकोप के मामले में, पूरी टीम प्रभावित न हो।
+* प्रसार को कम करने के लिए टीम का आकार न्यूनतम रखें।
 
 ## Source :  [https://www.health.govt.nz/your-health/healthy-living/environmental-health/infectious-disease-prevention-and-control/workplace-infectious-disease-prevention](https://www.health.govt.nz/your-health/healthy-living/environmental-health/infectious-disease-prevention-and-control/workplace-infectious-disease-prevention)
