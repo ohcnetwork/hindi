@@ -1,8 +1,8 @@
 ---
-description: >-
-  This page covers the Official Resources released by Governmental
-  Organisations.
+विवरण: >-
+  इस पृष्ठ में सरकारी द्वारा जारी आधिकारिक संसाधन शामिल हैं
+  संगठन.
 ---
 
-# Official Resources
+# आधिकारिक संसाधन
 
